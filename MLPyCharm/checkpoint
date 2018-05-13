@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/mbabi/Desktop/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/mbabi/Desktop/model.ckpt"
